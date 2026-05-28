@@ -16,8 +16,8 @@ This version is maintained as a derivative by Jit Dey. The goal of this folder i
 
 ## Project Contents
 
-- KiCad schematic files: `osw.kicad_sch` and legacy `osw.sch`
-- KiCad PCB layout: `osw.kicad_pcb`
+- KiCad schematic files: `osw.kicad_sch` `1759330689451.jfif` and legacy `osw.sch` `1759330713597.jfif`
+- KiCad PCB layout: `osw.kicad_pcb` `1759330736489.jfif` `1759330746571.jfif`
 - Local symbol and footprint library files under `lib/`
 - Generated gerber files under `gerbers/`
 - Board preview images and schematic documentation under `docs/`
